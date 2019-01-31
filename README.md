@@ -13,4 +13,4 @@
 
 <code>```<p>This is some test code.</p>```</code>
 
-<blockquote>test</blockquote>
+<blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
