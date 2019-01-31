@@ -28,6 +28,7 @@
   
  <table>
   <td>test</td>
+  <td>test 2</td>
   </table>
 
 <blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
