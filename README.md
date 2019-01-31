@@ -11,4 +11,4 @@
 
 <h4>This is a smaller header!</h4>
 
-<code>```This is some test code.</p>```</code>
+<code>```<p>This is some test code.</p>```</code>
