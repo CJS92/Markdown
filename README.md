@@ -29,8 +29,8 @@
  <table>
   <th>Head 1</th>
   <th>Head 2</th>
-  <tr>Test</tr>
-  <tr>Test</tr>
+  <td>Test</td>
+  <td>Test</td>
   </table>
 
 <blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
