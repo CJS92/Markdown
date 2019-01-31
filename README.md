@@ -6,4 +6,4 @@
 
 <img src="iu.jpg">
 
-<a href="http://www.missouri.edu" target="_blank">University of Missouri &raquo;
+<a target="_blank" href="http://www.missouri.edu">University of Missouri &raquo;
