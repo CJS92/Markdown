@@ -27,8 +27,8 @@
   </ul>
   
  <table>
-  <td>test</td>
-  <td>test 2</td>
+  <th>test</th>
+  <th>test 2</th>
   </table>
 
 <blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
