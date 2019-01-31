@@ -5,7 +5,7 @@
 <br><a href="markdown.html">About</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://missouri.edu">University of Missouri</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://google.com">Google</a>
-    <br><i>This text is italicized.</i>
+    <br><br><i>This text is italicized.</i>
     <br><s>This text is crossed out.</s>
 <hr>
 <img src="iu.jpg">
@@ -65,6 +65,7 @@
     <td>88%</td>
   </tr>
 </table>
+<hr>
 <blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
 <br><img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
 </html>
