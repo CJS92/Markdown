@@ -2,7 +2,7 @@
 <b>Navigation</b>
 <br><a href="markdown.html">Go to Markdown.html &raquo;</a>
 <br><a href="https://missouri.edu">University of Missouri &raquo;</a>
-<hr size="0.5">
+<hr style="height: 2px;">
 
 <img src="iu.jpg">
 <br><img src="https://i.imgur.com/lVlPvCB.gif">
