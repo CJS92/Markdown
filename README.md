@@ -2,7 +2,7 @@
 <html>
   <head>
 <b>Navigation</b>
-<br><a href="about.html">About</a>
+<br><a href="ABOUT.md">About</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://missouri.edu">University of Missouri</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://google.com">Google</a>
     <br><br><i>This text is italicized.</i>
@@ -17,7 +17,7 @@
 
 <code>```<p>This is some test code.</p>```</code>
 <ol>
-  <li>test</li>
+  <li>test</li>about.html
   <li>test</li>
   <li>test</li>
   </ol>
