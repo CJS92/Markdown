@@ -1,6 +1,6 @@
 # Markdown
 <b>Navigation</b>
-<a href="markdown.html">Go to Markdown.html</a>
+<br><a href="markdown.html">Go to Markdown.html</a>
 <br><a href="https://missouri.edu">University of Missouri &raquo;</a>
 <hr>
 
