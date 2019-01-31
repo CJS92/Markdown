@@ -10,6 +10,12 @@
 <h4>This is a smaller header!</h4>
 
 <code>```<p>This is some test code.</p>```</code>
+<ol>
+  <li>test</li>
+  <li>test 2</li>
+  </ol>
+
+
 
 <blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
-<img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
+<br><img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
