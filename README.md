@@ -3,9 +3,8 @@
 <br><a href="markdown.html">Go to Markdown.html &raquo;</a>
 <br><a href="https://missouri.edu">University of Missouri &raquo;</a>
 <hr>
-
+<img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
 <img src="iu.jpg">
-<br><img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
 
 <h2>This is a header!</h2>
 
