@@ -1,7 +1,7 @@
 # Markdown
 
 <img src="iu.jpg">
-<br><img src="https://i.imgur.com/e9L10Ri.jpg" height="50%" width="85%">
+<br><img src="https://i.imgur.com/lVlPvCB.gif">
 
 <h2>This is a header!</h2>
 
