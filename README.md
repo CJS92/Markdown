@@ -2,7 +2,7 @@
 <html>
   <head>
 <b>Navigation</b>
-<br><a href="markdown.html">About</a>
+<br><a href="about.html">About</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://missouri.edu">University of Missouri</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://google.com">Google</a>
     <br><br><i>This text is italicized.</i>
