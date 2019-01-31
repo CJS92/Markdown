@@ -5,6 +5,8 @@
 <br><a href="markdown.html">About</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://missouri.edu">University of Missouri</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://google.com">Google</a>
+    <br><i>This text is italicized.</i>
+    <br><s>This text is crossed out.</s>
 <hr>
 <img src="iu.jpg">
 
