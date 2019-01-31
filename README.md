@@ -5,7 +5,7 @@
 <hr>
 
 <img src="iu.jpg">
-<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/University_of_Missouri_logo.svg/923px-University_of_Missouri_logo.svg.png">
+<br><img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
 
 <h2>This is a header!</h2>
 
