@@ -1,3 +1,3 @@
 # Markdown
 
-<center><img src="iu.jpg"></center>
+<img src="iu.jpg">
