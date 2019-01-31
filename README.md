@@ -1,4 +1,7 @@
 # Markdown
+<h3>Navigation</h3>
+<br><a href="markdown.html">Go to Markdown.html</a>
+<br><a href="https://missouri.edu">University of Missouri &raquo;</a>
 
 <img src="iu.jpg">
 <br><img src="https://i.imgur.com/lVlPvCB.gif">
@@ -7,7 +10,4 @@
 
 <h4>This is a smaller header!</h4>
 
-<code>test</code>
-
-<a href="markdown.html">Go to Markdown.html</a>
-<br><a href="https://missouri.edu">University of Missouri &raquo;</a>
+<code><p>This is basic test code.</p></code>
