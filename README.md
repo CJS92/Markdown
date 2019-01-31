@@ -25,6 +25,10 @@
   <li>test</li>
   <li>test</li>
   </ul>
+  
+ <table>
+  <td>test</td>
+  </table>
 
 <blockquote>Copyright &copy; 2019 - This is just an assignment and means nothing.</blockquote>
 <br><img src="https://www.hscripts.com/freeimages/logos/academic-institution-logos/university-of-mizzou/mu-logo-clipart-128.gif">
