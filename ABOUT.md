@@ -2,11 +2,11 @@
 <html>
   <head>
 <b>Navigation</b>
-<br><a href="README.md">&laquo;Go back</a>
+<br><a href="README.md">&laquo; Go back</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://missouri.edu">University of Missouri</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://google.com">Google</a>
-    <br><br><i>This text is italicized.</i>
-    <br><s>This text is crossed out.</s>
+    <br><br><i>This is just a placeholder page.</i>
+    <br><s>Lorem ipsum...</s>
 <hr>
 <img src="iu.jpg">
 
