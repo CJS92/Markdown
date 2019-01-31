@@ -1,7 +1,7 @@
 # Markdown
 <b>Navigation</b>
-<br><a href="markdown.html">About&raquo;</a>
-<br><a href="https://missouri.edu">University of Missouri &raquo;</a>
+<br><a href="markdown.html">About &raquo;</a>
+&nbsp;&nbsp;&nbsp;<a href="https://missouri.edu">University of Missouri &raquo;</a>
 <hr>
 <img src="iu.jpg">
 
